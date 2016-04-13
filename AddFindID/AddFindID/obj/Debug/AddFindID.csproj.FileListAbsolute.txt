@@ -1,0 +1,59 @@
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\AddFindID.exe.config
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\AddFindID.exe
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\AddFindID.pdb
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.csprojResolveAssemblyReference.cache
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormAccueil.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.Properties.Resources.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.csproj.GenerateResource.Cache
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.exe
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.pdb
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\Joueur.dll
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\Joueur.pdb
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\MySQL.pdb
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormMenu.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormTrouverID.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormAjout.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\MySQL.dll
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormTrouverPseudo.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormTrouverTag.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\de\AddFindID.resources.dll
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormMenu.de.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\de\AddFindID.resources.dll
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormManuelUtilisation.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormMail.resources
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\AddFindID.exe.manifest
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\bin\Debug\AddFindID.application
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.TrustInfo.xml
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.exe.manifest
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.application
+D:\Profil\Desktop\Seafight ID\AddFindID\AddFindID\obj\Debug\AddFindID.FormChiffre.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\AddFindID.exe.config
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\AddFindID.exe.manifest
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\AddFindID.application
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\AddFindID.exe
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\AddFindID.pdb
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\de\AddFindID.resources.dll
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\Joueur.dll
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\MySql.Data.dll
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\MySQL.dll
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\Joueur.pdb
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\bin\Debug\MySQL.pdb
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormAccueil.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormAjout.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormChiffre.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormMail.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormManuelUtilisation.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormMenu.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormTrouverID.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormTrouverPseudo.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormTrouverTag.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.Properties.Resources.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.FormMenu.de.resources
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.csproj.GenerateResource.Cache
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\de\AddFindID.resources.dll
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.TrustInfo.xml
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.exe.manifest
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.application
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.exe
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.pdb
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\AddFindID\obj\Debug\AddFindID.csprojResolveAssemblyReference.cache

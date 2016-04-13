@@ -1,0 +1,10 @@
+D:\Profil\Desktop\Seafight ID\AddFindID\MySQL\MySQL\bin\Debug\MySQL.dll
+D:\Profil\Desktop\Seafight ID\AddFindID\MySQL\MySQL\bin\Debug\MySQL.pdb
+D:\Profil\Desktop\Seafight ID\AddFindID\MySQL\MySQL\obj\Debug\MySQL.dll
+D:\Profil\Desktop\Seafight ID\AddFindID\MySQL\MySQL\obj\Debug\MySQL.pdb
+D:\Profil\Desktop\Seafight ID\AddFindID\MySQL\MySQL\obj\Debug\MySQL.csprojResolveAssemblyReference.cache
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\MySQL\MySQL\bin\Debug\MySQL.dll
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\MySQL\MySQL\bin\Debug\MySQL.pdb
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\MySQL\MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\MySQL\MySQL\obj\Debug\MySQL.dll
+C:\Users\Dimy\Desktop\AddFindPlayer\AddFindID\MySQL\MySQL\obj\Debug\MySQL.pdb

@@ -1,0 +1,5 @@
+D:\Profil\Desktop\Seafight ID\AddFindID\Joueur\Joueur\bin\Debug\Joueur.dll
+D:\Profil\Desktop\Seafight ID\AddFindID\Joueur\Joueur\bin\Debug\Joueur.pdb
+D:\Profil\Desktop\Seafight ID\AddFindID\Joueur\Joueur\obj\Debug\Joueur.csprojResolveAssemblyReference.cache
+D:\Profil\Desktop\Seafight ID\AddFindID\Joueur\Joueur\obj\Debug\Joueur.dll
+D:\Profil\Desktop\Seafight ID\AddFindID\Joueur\Joueur\obj\Debug\Joueur.pdb

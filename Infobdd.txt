@@ -1,0 +1,15 @@
+Nom base de donnée : vinz16_dimy2
+
+Nom user : vinz16_dimy49
+Mdp : Sg0S()TyQAXC
+
+All privileges
+__________________________________________
+
+Base de donnée :
+
+adresse : gator3133.hostgator.com:2083
+user : vinz16
+mdp : &ypTp9cs5eVh
+
+
