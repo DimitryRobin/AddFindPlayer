@@ -14,14 +14,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="AddFindID.exe.manifest" size="7626">
+    <dependentAssembly dependencyType="install" codebase="Application Files\AddFindID_2_0_0_2\AddFindID.exe.manifest" size="7626">
       <assemblyIdentity name="AddFindID.exe" version="2.0.0.2" publicKeyToken="0000000000000000" language="fr" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>INcXFZwbGSSf/HnYfmaY3gOHiqqNLYWOF5lEs5zDTGg=</dsig:DigestValue>
+        <dsig:DigestValue>sO94j8nrhFEpTIHINhwkLZgWyJrXzWQMW1LiDUuybxA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

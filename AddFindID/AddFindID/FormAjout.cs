@@ -400,7 +400,7 @@ namespace AddFindID
             SmtpClient client = new SmtpClient("smtp.live.com");
             client.Port = 587;
             #region Confidentiel
-            client.Credentials = new System.Net.NetworkCredential("dimy@hotmail.fr", "Dimtchek12");
+            client.Credentials = new System.Net.NetworkCredential("dimy@hotmail.fr", "maeva200914");
             #endregion
             client.EnableSsl = true;
 
